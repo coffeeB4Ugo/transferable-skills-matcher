@@ -19,6 +19,11 @@ body, html {
     flex: 1;
 }
 
+.tskills-box {
+    display: flex;
+    justify-content: center;
+}
+
 h1, h2 {
     text-align: center;
 }
